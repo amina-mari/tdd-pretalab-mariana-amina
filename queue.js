@@ -3,7 +3,21 @@ class Queue {
   constructor(){
     this.elements = []
   }
-  
+
+  size(){
+
+  }
+
+  add(){
+
+  }
+  peek(){
+
+  }
+
+  dequeue(){
+    
+  }
   // Implementar aqui
 }
 
